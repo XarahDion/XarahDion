@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Xarah Dion</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
+- 🏆 I recently graduated from **Concordia University's Web Developement bootcamp.**
+
 - 🔭 I’m currently working on [Earth Trotter](https://github.com/XarahDion/final-project)
 
 - 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/XarahDion](https://github.com/XarahDion)
 
-- 💬 Ask me about **JS and React**
+- 💬 Ask me about **JS and React.**
 
 - 📫 How to reach me **xarahdion@gmail.com**
 
