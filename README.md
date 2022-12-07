@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/XarahDion](https://github.com/XarahDion)
 
-- 💬 Ask me about **JS, React and Node**
+- 💬 Ask me about **JS and React**
 
 - 📫 How to reach me **xarahdion@gmail.com**
 
