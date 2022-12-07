@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Python.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/XarahDion](https://github.com/XarahDion)
-
-- 💬 Ask me about **JS and React.**
-
 - 📫 How to reach me **xarahdion@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
