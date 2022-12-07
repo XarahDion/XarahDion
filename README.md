@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Python.**
 
+- 📔 I'm currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
+
 - 📫 How to reach me **xarahdion@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
