@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Earth Trotter](https://github.com/XarahDion/final-project)
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Python** and **CI/CD**.
 
 - 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
