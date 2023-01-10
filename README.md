@@ -5,7 +5,7 @@
 
 - 🔨 I’m currently working on [Earth Trotter](https://github.com/XarahDion/final-project) and [Current Weather](https://github.com/XarahDion/weather-app)
 
-- 🌱 I’m currently learning **React Native**, **Python**, **PostgreSQL**.
+- 🌱 I’m currently learning **React Native**, **Python**, **PSQL**.
 
 - 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
