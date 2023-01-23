@@ -9,7 +9,7 @@
 
 - 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
-- ⚡ Fun fact: As an  idndependant musician, I've toured Europe 7 times, travelling to over 25 countries 🌍 
+- ⚡ Fun fact: As an  independant musician, I've toured Europe 7 times, travelling to over 25 countries 🌍 
 
 - 📫 How to reach me **xarahdion@gmail.com**
 
