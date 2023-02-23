@@ -5,7 +5,7 @@
 
 - 🔨 I’m currently working on [Portfolio](https://github.com/XarahDion/portfolio)
 
-- 🌱 I’m currently learning **TypeScript**.
+- 🌱 I’m currently learning **AWS**.
 
 - 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
