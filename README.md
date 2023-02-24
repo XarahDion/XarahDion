@@ -3,7 +3,7 @@
 
 - 🏆 I recently graduated from **Concordia University's Web Developement bootcamp.**
 
-- 🔨 I’m currently working on [Portfolio](https://github.com/XarahDion/portfolio)
+- 🔨 I’m currently working on my [Dev Portfolio](https://github.com/XarahDion/portfolio)
 
 - 🌱 I’m currently learning **AWS** and **TypeScript**.
 
