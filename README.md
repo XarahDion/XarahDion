@@ -3,7 +3,7 @@
 
 - 🏆 I recently graduated from **Concordia University's Web Developement bootcamp.**
 
-- 🔨 I’m currently working on my [Dev Portfolio](https://github.com/XarahDion/portfolio) and learning **AWS**.
+- 🔨 I’m currently working on my [Dev Portfolio](https://github.com/XarahDion/portfolio) and studying for the **AWS CCP** exam.
 
 - 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
