@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xarah Dion</h1>
 
-- 💻 I'm a JavaScript programmer for **Revenu Québec.**
+- 💻 I'm a JavaScript analyst/programmer for **Revenu Québec.**
 
 - 🏆 I graduated from **Concordia University's Web Developement bootcamp.**
 
 - 🔨 As side projects, I'm working on a [DALL-E Clone](https://github.com/XarahDion/dall-e-clone) and studying for the **AWS CCP** exam.
-
-- 📔 I’m currently reading **The Structure of Scientific Revolutions by Thomas S. Kuhn.**
 
 - ⚡ Fun fact: As an  independant musician, I've toured Europe 7 times, travelling to over 25 countries 🌍 
 
