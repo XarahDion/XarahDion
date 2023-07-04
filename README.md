@@ -4,8 +4,6 @@
 
 - 🏆 I graduated from **Concordia University's Web Developement bootcamp.**
 
-- 🔨 As side projects, I'm working on a [DALL-E Clone](https://github.com/XarahDion/dall-e-clone) and studying for the **AWS CCP** exam.
-
 - ⚡ Fun fact: As an  independant musician, I've toured Europe 7 times, travelling to over 25 countries 🌍 
 
 - 📫 How to reach me **xarahdion@gmail.com**
